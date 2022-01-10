@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 9fffe26b443e7184c82919aef71e99f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4421360391555586466
+    second: Layer 2 Merged_0
+  - first:
+      213: -8202701433984168460
+    second: Layer 2 Merged_1
+  - first:
+      213: 7241677314569034370
+    second: Layer 2 Merged_2
+  - first:
+      213: 5347406571559545213
+    second: Layer 2 Merged_3
+  - first:
+      213: 2479849309387026707
+    second: Layer 2 Merged_4
+  - first:
+      213: 6597841187166436170
+    second: Layer 2 Merged_5
+  - first:
+      213: 8835771478007910452
+    second: Layer 2 Merged_6
+  - first:
+      213: -1759196924337384259
+    second: Layer 2 Merged_7
+  - first:
+      213: 3456992385431363480
+    second: Layer 2 Merged_8
+  - first:
+      213: 1798985748717064487
+    second: Layer 2 Merged_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Layer 2 Merged_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 289
+        width: 50
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6277145, y: 0.061763987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e855362c24a2c0800000000000000
+      internalID: -4421360391555586466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 306
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.39782867, y: 0.06522743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a54e8462b9f7460800000000000000
+      internalID: 7241677314569034370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 286
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79656fe1fdc53a40800000000000000
+      internalID: 5347406571559545213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 17
+        width: 28
+        height: 63
+      alignment: 9
+      pivot: {x: 0.636837, y: 0.895307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f28edec13a6220800000000000000
+      internalID: 2479849309387026707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14
+        width: 28
+        height: 53
+      alignment: 9
+      pivot: {x: 0.45438766, y: 0.9216989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3f755a9d309b50800000000000000
+      internalID: 6597841187166436170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 15
+        width: 23
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3056521, y: 0.86185825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43090376857fe9a70800000000000000
+      internalID: 8835771478007910452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 18
+        width: 24
+        height: 59
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.8788146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db419eac7b31697e0800000000000000
+      internalID: -1759196924337384259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 2 Merged_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 42
+        width: 33
+        height: 57
+      alignment: 9
+      pivot: {x: 0.329883, y: 0.85701936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fddd43244b9ff20800000000000000
+      internalID: 3456992385431363480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
